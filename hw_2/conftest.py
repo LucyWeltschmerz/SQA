@@ -18,3 +18,5 @@ def wait(browser):
     wait = WebDriverWait(browser, timeout=10)
     return wait
 
+def a():
+    pass
